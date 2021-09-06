@@ -19,8 +19,12 @@ to run it, double-click on the file containing your code.
 example:
 
 1) SnbtCmd.exe path "file path" to-snbt > out.txt
+
+
 "file path" specify the full path to the NBT file. or, if the file is located in the same folder with SnbtCmd.exe and your executable cmd file, you can enter in the" file path " just the name of the NBT file.
 the to-snbt module converts an NBT file to snbt
 out.txt will be an snbt file containing the snbt. (you can change its name)
 
 2) SnbtCmd.exe path "file path" to-nbt" > out.nbt
+
+.
