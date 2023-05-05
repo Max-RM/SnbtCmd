@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace>TryashtarUtils.Utility</RootNamespace>
+    <AssemblyName>TryashtarUtils.Utility</AssemblyName>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="**/desktop.ini" />
+  </ItemGroup>
+</Project>
