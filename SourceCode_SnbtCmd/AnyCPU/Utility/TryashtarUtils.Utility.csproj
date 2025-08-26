@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework>
+    <Platforms>AnyCPU;x86;ARM64</Platforms>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace>TryashtarUtils.Utility</RootNamespace>
+    <AssemblyName>TryashtarUtils.Utility</AssemblyName>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="**/desktop.ini" />
+  </ItemGroup>
+</Project>
