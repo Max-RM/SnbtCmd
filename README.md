@@ -7,9 +7,9 @@ This program was created by Tryashtar on August 30, 2021. written in C#, you can
 ■usage examples■
 
 Use:
-First type mode 'path' or 'raw'
-If using 'path', next type the file path
-Next type 'to-snbt' or 'to-nbt'
+First - select the mode 'path' or 'raw'
+If using 'path', then type the file path
+Then type 'to-snbt' or 'to-nbt'
 If using 'to-snbt', add 'expanded' for pretty-print)
 If using 'to-nbt', add 'gzip' for g-zip compression)
 
